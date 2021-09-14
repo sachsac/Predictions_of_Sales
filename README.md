@@ -35,7 +35,7 @@ Different categories for items in general are proportional, between lower outlet
 ## Categorical Features:
 ![features](https://user-images.githubusercontent.com/86759538/131197290-c57b6173-eaab-4194-9309-0f0b3f665723.PNG)
 
-Similar to a heatmap, this barchart measures the importance of different features on our target, the Item_Outlet_Sales. The features that most impact our sales are 25 and 24: which is what type of outlet it is, a grocery store or a supermarket. This seems to indicate that our supermarkets will sell a particular item better than a grocery store would.
+Similar to a heatmap, this bar chart measures the importance of different features on our target, the Item_Outlet_Sales. The features that most impact our sales are 25 and 24: which is what type of outlet it is, a grocery store or a supermarket. This seems to indicate that our supermarkets will sell a particular item better than a grocery store would.
 
 Features 0, 17, 9, 21, 22, and 23 are at a much less magnitude, but still noticeable compared to the others. Negatively impactful are the item visibility and dairy. This would indicate that visibility scores can definitely negatively impact your item. Dairy, however, is an interesting find. We can make assumptions as to why dairy does not sell as well, but it could relate to competition, expiration dates/waste, or even different kinds of milk. 
 Feature 17 is Seafood. This indicates that seafood yields high sales.
